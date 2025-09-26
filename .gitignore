@@ -1,0 +1,8 @@
+# Bỏ thư mục node_modules
+node_modules/
+
+# Bỏ file log
+*.log
+
+# Bỏ file môi trường
+.env
